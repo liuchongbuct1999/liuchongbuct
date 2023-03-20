@@ -6,6 +6,8 @@ from matplotlib import pyplot as plt
 
 # hyperopt是可用的，tpe 是基于高斯混合回归过程的
 
+
+#你好
 # 目标函数的输入必须是字典的形式
 def fn(params):
     x = params['x']
